@@ -1,2 +1,3 @@
 Hi, I am Alexis, BS IT 2nd year.
 I am learning Git.
+Hobby: coding
